@@ -12,7 +12,7 @@ int main(void){
     distance = radius*PI*2;
     time = (distance/speed)*60;
 
-    printf("%.3lf minute needed for %.3lf m \n", time, distance);
+    printf("%.3lf minute needed for %.3lf km \n", time, distance);
 
     return 0;
 }

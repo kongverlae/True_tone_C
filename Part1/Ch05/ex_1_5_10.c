@@ -7,7 +7,7 @@ int main(void){
 
     height_m = (15000*Feet)/100;
 
-    printf("1500 feet is %.2lf m \n", height_m);
+    printf("15000 feet is %.2lf m \n", height_m);
 
     return 0;
 }
