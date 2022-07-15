@@ -7,5 +7,7 @@ int main(void){
     weight_kg = 150*Pound;
 
     printf("150 pound is %.2lf kg \n",weight_kg);
+
+    return 0;
     
 }
